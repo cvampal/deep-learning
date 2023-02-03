@@ -1,0 +1,1864 @@
+n n num n n n pn adj n avy n n n n v punc 
+ n n n n n n n n pn n v punc 
+ n n v n n n v punc 
+ n n n avy n n n v punc 
+ n n n n n avy n pn n n n n v punc 
+ n n n v punc 
+ n n n adv n v pn n n n n v punc 
+ v v n punc 
+ n n n v n pn n v punc 
+ pn n n n n v punc 
+ adv avy v n pn n pn n v punc 
+ n punc 
+ n n n v punc 
+ n n n n adj v punc 
+ n n adv n n n v punc 
+ n n v n n adj n v pn n unk v punc 
+ n n v pn n v punc 
+ n n n v punc 
+ pn n n v punc 
+ n n n n n v punc 
+ adv n n n v punc 
+ n n unk punc 
+ n n pn n v avy n pn n n v avy n v n avy n adj v pn adj v punc 
+ n v n v pn n n v punc 
+ adv n n n v punc 
+ n avy n n avy n n n avy adj avy adj v punc 
+ n punc 
+ n nst nst n n v punc 
+ pn n n n v n adj v punc 
+ n n adj v n v punc 
+ n n n v punc 
+ pn n n v punc 
+ n n n adj v n v punc 
+ pn n n v punc 
+ n punc 
+ n n n pn n avy n v punc 
+ n n avy n n v punc 
+ n adj n n pn num v punc 
+ n adj n n v punc 
+ avy n pn n n n v punc 
+ n punc 
+ n n adj n pn n adj v punc 
+ n n n n v punc 
+ n n num n n n v punc 
+ n n v pn n v punc 
+ n n n n v punc 
+ n punc 
+ n n v punc 
+ pn n n n n v n n punc n v punc 
+ pn n avy n n n pn v v punc 
+ n n n n n v punc 
+ n n n n v punc 
+ pn n n n v punc 
+ n n n n v punc 
+ n punc 
+ n n n pn n adj n v punc 
+ n n n v punc 
+ n v n n v punc 
+ n n n avy n v unk adv n n adj v punc 
+ n n n n n v punc 
+ n n n n v punc 
+ pn n n n v punc 
+ n n n n v punc 
+ avy n nst n v punc 
+ n n n pn v punc 
+ n adj n pn n n v punc 
+ n adv n n v n n v v punc 
+ n punc 
+ n n pn avy v n n v punc 
+ n n n pn n adj v punc 
+ pn n n adj n adj v punc 
+ n n v punc 
+ avy v n v punc 
+ n avy n punc 
+ n n v n n avy pn v n n n n v punc 
+ n v n n n v punc 
+ pn n avy n n n v v adj v punc 
+ nst adj n v n adj avy adj n pn v pn v avy pn n n avy n n v punc 
+ n punc 
+ n n adj n adj v punc 
+ n v n n n n n v punc 
+ pn n n v punc 
+ pn v punc 
+ n n n n n adj v punc 
+ pn v n n v punc 
+ n n n n psp n v punc 
+ n n n n n adj v punc 
+ pn n n n avy n n adj v punc 
+ n avy n n adj avy adj n n avy v n v punc 
+ pn v punc 
+ n n v n n adj v punc 
+ pn n n n avy n v adj v avy nst n v punc 
+ pn n n adj v punc 
+ adv n n n v punc 
+ pn n avy n adj v punc 
+ pn n n n v punc 
+ n n n n v punc 
+ n n n n avy n v punc 
+ n n avy n n pn adj v punc 
+ n n n v punc 
+ pn n n n v punc 
+ pn v n pn n v v punc 
+ n n n v punc 
+ pn adj v n n v punc 
+ pn n n avy pn v n pn n v v n avy n n v n adj v v punc 
+ pn n n adj n pn v adv n v n n v pn n v punc 
+ n n n n v pn n n pn n n v pn n n avy n v punc 
+ n n n n n unk n n v punc 
+ pn n n v pn n n v v punc 
+ n n v punc 
+ n n adj n v punc 
+ pn n adv adj v pn n unk v punc 
+ n n n n n v pn v n v punc 
+ n pn n v nst adj v avy adv adj v punc 
+ n adj avy adj v punc 
+ pn n n v punc 
+ n n v pn adj v punc 
+ n n n n n v punc 
+ n n n v punc 
+ pn n n v punc 
+ n pn n adj v punc 
+ adv pn nst num v punc 
+ n n n v punc 
+ pn n n pn adj avy adj n n n v punc 
+ pn n n v pn n v punc 
+ n n n n n n v punc 
+ pn v avy n n n n n adv v punc 
+ n n n n v v avy pn n n n n n v avy n n pn v punc 
+ n n adj v punc 
+ n n n v punc 
+ n pn n v avy pn pn unk punc 
+ pn n n adj v punc 
+ pn n n v avy nst v n v punc 
+ pn v avy pn pn n n v unk n n n v punc 
+ pn n n v v avy n n n n n pn n n v punc 
+ n pn pn n v n v avy n n n pn n adj v punc 
+ pn pn v avy pn n n pn pn n n n v avy n n v punc 
+ pn n n v punc 
+ n v avy pn n pn v avy pn n n n n v v punc 
+ pn n adv adj v punc 
+ pn n n v avy n pn v punc 
+ pn n pn n adj v avy n n pn n v punc 
+ n pn v v avy n n n v adj v punc 
+ pn v avy pn n avy pn n n v n v punc 
+ pn n n v punc 
+ pn pn n v avy pn n pn n n v punc 
+ pn v avy n n pn n v n v avy pn pn n v punc 
+ n n n n n n n adj v punc 
+ n v pn n n n adj v punc 
+ n n n adj v n n v avy n adj v punc 
+ n n avy n adj v n n v avy n n adj n n n avy n adj v punc 
+ n n n adj v n n adj v pn n n n v punc 
+ avy n n n n adj n n n adv v avy n v n n n v punc 
+ n n n avy n n v n n v punc 
+ n adj n n n n pn n adj v punc 
+ n n v n n n v punc 
+ n n v avy n n n n pn n n v n adj avy adj v punc 
+ pn pn n v n adj v n n pn v punc 
+ n adj v pn n n v v avy n n pn n avy v punc 
+ n v nst n pn n n n v avy n n adj v punc 
+ n n n v n v avy n n v n v punc 
+ avy adj avy adj n v pn n v punc 
+ n n n n n n v punc 
+ n n n adj v punc 
+ n n n v punc 
+ pn n n pn n n n v v avy n n n avy n v n avy n n n v punc 
+ avy n n adj v n n n v punc 
+ avy n n n v punc 
+ n n n n v punc 
+ pn n n n v avy n n adj v punc 
+ avy n n pn adv num avy n v punc 
+ pn n n n avy n adv n n v n adj v punc 
+ pn n pn adv n v punc 
+ n n n adj v pn n adj v v punc 
+ n n n adj n n n adj v punc 
+ n n n n n n n n num v punc 
+ n v n n n n v n n n n v punc 
+ n n n n v punc 
+ n n n n n n n n n v punc 
+ n n n n n n v punc 
+ n n n avy n n n n v n v punc 
+ n n avy n pn nst v punc 
+ n n n n v punc 
+ n pn n n n adj v punc 
+ n n avy n n n v n v punc 
+ n n n v n avy v avy n pn adv adj v v punc 
+ n n n n avy n n adj avy adj v v punc 
+ n n avy n n n v avy pn n n n v punc 
+ n n n pn v avy pn n n v unk n pn pn n v avy n n n v punc 
+ n n n v punc 
+ pn n pn adj v avy n n n avy n n v punc 
+ pn pn v avy n n n v n pn n n n v punc 
+ pn v avy n n n n v avy n pn n v punc 
+ n pn n v avy n n n n v punc 
+ pn pn pn avy n num n v punc 
+ unk adj v avy n n n n v avy n avy pn n n n n v n v punc 
+ n n n n n n n v n v punc 
+ n n n n v n n v punc 
+ avy n v v avy n n avy n avy pn nst v punc 
+ n n adj v avy n n v punc 
+ n v v avy n n n v punc 
+ pn n adj v avy pn pn n v punc 
+ pn n pn v n v avy n n pn v punc 
+ n n n n adj v punc 
+ avy n n n v n n psp n n adj v punc 
+ n v v avy n n n avy n n n n v n v avy pn n v punc 
+ n n pn n avy n n v avy pn n v punc 
+ n v v avy pn n pn adj v v pn n n pn n v avy n n v punc 
+ n n psp n avy n n n avy n v n v punc 
+ n n n n avy n adj v n v v punc 
+ n pn n n n v v punc 
+ n n v avy n adj v n n avy n pn n n n v avy n n v n v punc 
+ n pn n avy n v avy pn n v punc 
+ unk adj v avy n n v punc 
+ avy n n adj v punc 
+ n adj v n avy n n n n v punc 
+ n pn n n v unk n n n v punc 
+ n n n v avy pn adv n pn n n v n avy n v n n n v punc 
+ n n n n num avy n v punc 
+ n v v avy adj avy adj n n avy n adj v punc 
+ avy pn n n v avy adj v punc 
+ pn n n n v punc 
+ n n unk v n avy n n n pn n n v punc 
+ n n adj v v avy n n v n n n v punc 
+ n v v avy n n n v punc 
+ pn n v punc 
+ n v n v n n n n adj v punc 
+ n v n n nst v avy v n n n n n v punc 
+ nst n n adj v n v n pn n n n n n v punc 
+ n n n n avy n v n n n pn n avy v n n v punc 
+ n adj v n unk avy adv nst n v pn n adv n v punc 
+ pn n v avy n pn v pn n v punc 
+ n n n v n v avy n v avy n avy n n n v avy n n pn n v punc 
+ pn v avy n n n n n n v punc 
+ n n adj v n v n pn n n n v n n v punc 
+ n n n v avy n n n pn v v unk pn n n v punc 
+ avy pn v avy pn n adj v adj v punc 
+ n v pn n v n n v n n n n adj v punc 
+ n n n n v punc 
+ pn v avy n n v n n adj v avy pn n v punc 
+ n n v unk n pn n v unk pn n n v punc 
+ nst n n n v avy n n avy n v pn n v n n n v punc 
+ pn pn n n v n v punc 
+ n n n v avy pn n n n v avy pn v avy pn n v punc 
+ n n n v n n adj v punc 
+ n avy n n n n n pn v punc 
+ nst n adj n n n avy pn nst n v n pn adj n v punc 
+ n n v n pn adv n v punc 
+ n n n v avy n pn n adj v punc 
+ n n n adj n n adj v n n v punc 
+ avy n n n n v avy n n n v n v punc 
+ pn n n n v n n n n n v avy n n v pn pn n num avy v punc 
+ n n avy n n n n n n n n v punc 
+ pn n n n v n v punc 
+ n avy n n n n avy n v punc 
+ n n n n avy n v n v punc 
+ pn n avy n n v n n n adj v punc 
+ n n n n avy n avy n avy n n n n v punc 
+ avy n n n avy n adj v punc 
+ avy n n avy n n v punc 
+ n n n n v punc 
+ pn v avy pn adv n v punc 
+ unk adj v avy n n n n v punc 
+ n n n n adj v punc 
+ n avy n pn adj avy adj n adj v avy pn n v n n n v n v punc 
+ n pn n pn n adj v punc 
+ n v avy n avy n v n pn v avy pn n n v punc 
+ n pn n v avy n avy n n n avy n v punc 
+ pn n n pn v punc 
+ avy pn n v pn n n v punc 
+ avy n v avy n n avy n adj v pn n n v punc 
+ n n n adj v avy n n v n v avy n n avy n n n n v punc 
+ n v v avy n v n n n avy n v avy n n n v pn n avy n n avy n n v punc 
+ n n n n n n n avy n unk n n n n v n v punc 
+ n n n n v punc 
+ n n n adj v punc 
+ n pn n v avy avy n n n v avy pn n avy n v avy pn n n adj v adj v punc 
+ n n n avy n n n v punc 
+ n v avy n pn n n avy n adj v punc 
+ pn pn n v v punc 
+ n n n n v punc 
+ pn n n v avy adv n pn n v punc 
+ pn v avy n pn n pn n n v n n v punc 
+ n n v avy n pn n n v punc 
+ pn v avy pn pn n n n v punc 
+ pn n avy n n n v n v punc 
+ n n n n v punc 
+ n n n v punc 
+ n pn pn pn v punc 
+ n adv n n v punc 
+ n n n n v n n n n v punc 
+ pn n avy n n v n n v punc 
+ n n n n n v punc 
+ unk adj v avy n adj n avy n n v n n n n n n n v punc 
+ n n n n v n v punc 
+ avy pn n v n v punc 
+ n n pn pn n v punc 
+ n n adj v punc 
+ n n n n v n v punc 
+ n n n n v punc 
+ n n v v n v n n v v avy n n pn adj v punc 
+ adv n v avy n pn n v unk pn n pn pn n adj v punc 
+ avy n n v n n v punc 
+ avy n n v avy pn n n n n n n v punc 
+ n pn n v v avy pn avy n n n pn v punc 
+ avy n avy n n adj v punc 
+ n n v avy n n n v punc 
+ pn n n n adj v punc 
+ n n n v n n n n v avy n v n n avy n n n adv v punc 
+ n v n n v punc 
+ n n n adj n avy n adj v n avy n n v punc 
+ avy n n n n v n n n v punc 
+ punc n n n n n n pn n n nst adj v punc 
+ pn pn n avy n v punc 
+ n n n avy pn n n n n v punc 
+ avy n avy n n n n n v avy n n n pn adj v punc 
+ nst n n n n v punc 
+ pn v avy n pn pn n v avy pn n n v pn n n v pn pn pn n n v punc 
+ n n n n n v avy pn n avy n n v n n n v v punc 
+ n v v avy n adj avy adj n v punc 
+ n n n n avy n n v pn n pn n adj v punc 
+ n n v avy pn n n adj v n v punc 
+ n n n n n v punc 
+ n n adj v n n v avy pn n adj n n adj v v punc 
+ avy n n n adj v n v punc 
+ unk adj v avy n n n n adj v n v punc 
+ n v v avy n n n pn n adj v unk pn n adj v n n n v punc 
+ avy n n n n adj n v avy n n n adj v n n pn adj v punc 
+ n v avy n n adj avy adj v punc 
+ n n n avy n n n adj v avy pn n n n v punc 
+ n v avy n avy n n adj v avy n avy n n unk punc 
+ n n adj v avy n n v n n adj v punc 
+ n n n v avy avy n n n n v avy n avy n n n v punc 
+ n v avy n n n n v n n v n n n v punc 
+ n n v avy n n v n n n v avy adj avy adj n n adj v punc 
+ pn n n v avy n n n n n v n n n v punc 
+ n n n v avy n n n adj n n n v punc 
+ n n v avy n n n adj v n adj v avy n n n n n v n adj v punc 
+ unk adj v avy n n n avy n n avy v n n n v punc 
+ n n nst v punc 
+ n n n n v avy n n v punc 
+ n n n n n v n n v punc 
+ n n n n n n v avy n n n n n v punc 
+ n pn v avy n n n n v punc 
+ n n n n n v avy n n n unk punc 
+ n n n n v punc 
+ n n v avy n n n n n v punc 
+ n n n n v punc 
+ n n n n n nst v punc 
+ n n n v avy n num v n num v punc 
+ nst n n n v n v punc 
+ n n avy n n v avy n n adv v n n pn n v punc 
+ n v avy pn pn n v avy punc 
+ pn v avy n n pn n v avy n n v punc 
+ n n n n adj n n n v n v punc 
+ pn v avy n n n v avy n pn pn n v punc 
+ n n v avy n n n adj v avy pn pn adj v punc 
+ pn n v avy n n adj v punc 
+ pn n n v punc 
+ pn v avy n pn n v v punc 
+ avy pn v avy pn pn n n v avy pn n v punc 
+ n n v n n n n n n n v n n v punc 
+ n n n n v punc 
+ n n n pn n n n avy n adv n v punc 
+ n v n n v n v pn n v n avy adj v punc 
+ pn avy n v avy pn n adj v punc 
+ adv n n v n adj v pn n v avy n n v pn n v punc 
+ pn n adj v avy pn n v punc 
+ n n n v n v avy n n adv pn n n v adv pn pn pn n n v punc 
+ n v avy n avy n n v avy pn pn n v punc 
+ n n n v avy pn pn n adj v avy pn pn n n v punc 
+ n adj n n adj v n n v avy n adj n n pn n n v punc 
+ n n nst n v n v avy n n n adj n pn n n v punc 
+ n n n v punc 
+ n n n n n v n v punc 
+ punc pn n n n n n v n v n v punc 
+ n n v avy n n n n v n v v punc 
+ n n n v n v avy n avy n n n n pn n n v punc 
+ pn v avy n n pn n v avy n n pn n v punc 
+ n n v n n n n v v n n n n v n adj v punc 
+ pn n n n v n n n v punc 
+ pn n v v pn n pn n avy n v punc 
+ pn n pn n n n v punc 
+ n n adj n n n v punc 
+ pn n avy n n n v v punc 
+ n n n avy n n n n v punc 
+ n n pn n n n v n v punc 
+ n n pn n n adj v punc 
+ n v avy n v pn n v n n avy v punc 
+ n v avy n n n v n v punc 
+ pn pn n n n v pn pn n pn v punc 
+ pn n v v pn n pn n n v punc 
+ v avy n v adj n n n n adj v punc 
+ n n v n adj v punc 
+ n n n n v punc 
+ n n v n n n adj v punc 
+ pn pn pn v v punc 
+ avy n adv pn n n v punc 
+ n n v n v punc 
+ pn n n v n pn n n adj v punc 
+ pn n v avy n n v n n n v n v punc 
+ n v n n v punc 
+ pn n n n v n adj v punc 
+ n n n n n v n v punc 
+ n v pn n v punc 
+ avy n pn v avy n avy n n n n v punc 
+ n n n n avy n n v n n n v punc 
+ n n n n n n n n n n n n n n n n avy n n n n v punc 
+ n v n n n v n n v n v punc 
+ avy n v v n pn n n n n v avy n v n n n v punc 
+ adv n n n avy v avy n n n n v adj v punc 
+ adv n n avy n n n adj v punc 
+ n v n avy n n n n v n v punc 
+ punc n n psp n n n n avy n n n n n n n adj v punc 
+ n n n v n v avy n n n n n n v punc 
+ n n n n avy n n v n n n adj v pn n n adv n v n v punc 
+ n n n n n n v punc 
+ n n n n adv n n v punc 
+ n n n n v punc 
+ n n n n n n n n v punc 
+ n n n n n n n n v punc 
+ n pn n n n n n v punc 
+ n n n pn n n n n n n n n n n n n n n unk n n n n n n n v punc 
+ n n nst n v pn n n v n n n v v punc 
+ pn n n n n n n n n pn n n unk n n v punc 
+ n n adv n n avy n adj v n n v punc 
+ n n n n n v punc 
+ pn n n n n n n n n n n n avy n n n avy n n adj v punc 
+ n n n v punc 
+ n n n n v punc 
+ n v avy n pn n n n v punc 
+ avy n n adj v punc 
+ pn v avy n n n n n n n n n n n n n n n punc n n n n v punc 
+ n n n n n n v punc 
+ pn n n n v punc 
+ n n adj v n v punc 
+ pn n n n n adj v punc 
+ pn n n n n v punc 
+ n v avy n n n v avy n n avy n n n n n v punc 
+ pn v avy n n adj v punc 
+ pn n avy n pn n v pn n pn n n adj v punc 
+ n v avy n n n n adj v punc 
+ pn n n v punc 
+ n n v n adj v punc 
+ n n adj v pn n n v avy n n n n adj v punc 
+ pn adj v avy n n n n n avy n n n v punc 
+ n v n n adj v n n v n v punc 
+ n adj n avy n n v n n n v punc 
+ n n n n adj v punc 
+ n n v avy n n v pn n n adj v punc 
+ n n num v avy n n v n n n v n v punc 
+ n n n n n n avy n adj v punc 
+ n n n n adj v punc 
+ pn n avy v n n n v punc 
+ n v avy n avy n n n n n avy v n v punc 
+ n pn adj v avy n n n n unk avy n n n avy v punc 
+ n n v n n adj v n v punc 
+ pn adj n avy n n adj v punc 
+ adv n n adj v n n n adj v n v punc 
+ n v avy n n n v avy n n v n n n v n v punc 
+ adj avy adj n n n n v punc 
+ n v avy n n v avy pn n v punc 
+ n n n v n n v pn n n n v avy n n v punc 
+ pn n n v punc 
+ n avy n n n pn n unk v n v punc 
+ pn v v avy n n avy n v n n v punc 
+ pn n v n n n v punc 
+ n n n v avy n n n n v punc 
+ pn pn adj avy adj v punc 
+ pn adj v avy n n n n n n v avy n pn v v punc 
+ n v avy n n avy n n n v punc 
+ n n v v avy n pn n v avy n n n n v punc 
+ n n n n v punc 
+ v avy n n pn n v punc 
+ n n v n v n n n n n v punc 
+ n n v n v avy n v n n adj v avy pn n v n v unk n n adj v n v punc 
+ n n n v n n n n v punc 
+ n v v avy pn n avy n unk v adj n n avy n v pn n avy n n adj v punc 
+ n v avy avy n n v avy n v n avy n pn n n avy pn n n v punc 
+ n pn v avy n n v pn n n n n v n v punc 
+ punc n n v n n n avy n v n n n n n v punc 
+ n v n adj n n v n n n v punc 
+ n n v n v avy adj v punc 
+ n n n v punc 
+ n n n v n v punc 
+ n v n n n v punc 
+ n n v n n v avy num avy n n v punc 
+ n v v avy n n v punc 
+ n n v punc 
+ n n n avy n n n adj v pn n n v punc 
+ n n v n n n avy n n n v punc 
+ n n n n n unk avy n n num unk avy n n n v n v punc 
+ n n n n n n adj n v punc 
+ v avy n n n n v punc 
+ n n v pn n n n v punc 
+ n n n n v avy n v punc 
+ n n avy n n avy n n v punc 
+ n n n adj v avy adv n n v avy n v punc 
+ n avy n v n n n v punc 
+ n n v n n v avy pn n v nst v punc 
+ adv n n v punc 
+ n n v avy nst v n adj n n n v punc 
+ pn n n n n avy n nst v n v avy n avy v punc 
+ n n n nst n v avy n n v punc 
+ n n n avy n n n v avy n pn n n n v avy n v punc 
+ n n n n adj v punc 
+ n n avy n n v n v punc 
+ n v n n n v unk pn n avy v punc 
+ n unk n n n v punc 
+ n n n v punc 
+ n n n v punc 
+ n n nst v n n v punc 
+ n n n v avy n n v punc 
+ n v avy n n n avy n n v n avy n n n avy n n adj v punc 
+ n n v avy n n n v punc 
+ n n v punc 
+ n v avy n n n n adj v punc 
+ n n pn n n adj v punc 
+ pn n v avy n n unk n n avy n v avy n n pn avy unk punc 
+ avy pn n avy n n n n v avy n n n n n v punc 
+ n n n n adj v v avy n n v avy pn n n v punc 
+ avy n n n v n v avy n n v n n nst v punc 
+ n n n n v punc 
+ n n avy n v avy n n v punc 
+ n n n num n v punc 
+ n n v pn n adj v avy nst n v punc 
+ n n pn v avy n n n n adj v avy n n n v punc 
+ n n avy n v avy pn n v punc 
+ pn n n v punc 
+ n n n v pn n v unk pn n n unk v avy pn n n v punc 
+ avy n n n v punc 
+ n n pn v avy n n v n n avy n n pn v punc 
+ n n n v avy nst n v punc 
+ n nst n v punc 
+ n n v punc 
+ n n v punc 
+ n n n n n v avy nst pn n n pn v punc 
+ n n v avy n n n n n n n v punc 
+ n n n n n v punc 
+ avy adv n n n nst v punc 
+ n v v avy pn n n v pn n n v unk pn n n n v adv adj v punc 
+ n n n n n n n v punc 
+ n n v adj v avy n n v pn n adj v punc 
+ n n n n n avy n n v avy n n n n v n v punc 
+ avy n n adv n v avy n n v pn n n v punc 
+ n n n v avy n n n n adj v punc 
+ n pn v avy pn pn v adj v avy pn n v punc 
+ n n v avy n n n v n adj n n n v n pn n adv n v punc 
+ avy pn n v avy pn n adj v pn n v punc 
+ n n n n v avy n n v n v punc 
+ n v avy n avy n n n v n n v punc 
+ n unk v n n v n n pn v avy n n v punc 
+ n n n n n v adv n n n n n n v punc 
+ n n n adj v n n v avy n avy n n v avy n n n n num v punc 
+ n n n v avy pn n n num v punc 
+ avy n n v n n num v n v punc 
+ n n n v n num v num v punc 
+ n n v punc 
+ n v avy adj avy adj n n n n v punc 
+ adv n n v pn n pn avy n adj v punc 
+ n adv n n avy n n v n n n v punc 
+ n n adj avy adj n n n v punc 
+ nst n n n n n v adv nst n n n n n n adj v punc 
+ avy n n n n n num v num v punc 
+ n n n v n adj n n n n v punc 
+ adv n n n v n n avy n n n v punc 
+ n n n n pn adj n n n n v punc 
+ n nst v n n v punc 
+ n n n n adj v n n n adj v punc 
+ n n n n n v n v avy n n n v n n v punc 
+ n n n avy n n n n v n n n v adj v punc 
+ n avy n n n n unk n v avy n n n pn n n v punc 
+ n adj n n n n n n avy n n n v punc 
+ n n n n n n n n n n n n n n n avy n punc 
+ n n avy n n v n n n n adv v avy n pn pn n n v punc 
+ n v avy n n v n n n v punc 
+ n pn n n v punc 
+ n avy n n adj n v v avy n n n adj v punc 
+ n n n v n avy v punc 
+ n n n avy n n n n v punc 
+ n n n n v punc 
+ n v n n avy v avy n n n v punc 
+ n n num unk avy n n v punc 
+ punc n n n v unk pn n v punc 
+ nst n n n v unk n n pn adj unk avy pn adj n v punc 
+ n num v n num v n num v n num v n num v n num v avy n num n v punc 
+ n n n v pn n adj v pn adj v n n n avy n n v n v punc 
+ n n n adj v n n n n n v punc 
+ adv n n n v n avy n n v punc 
+ pn n n adv v punc 
+ adv n n v n n n v n v n adj v punc 
+ pn v avy n n v punc 
+ n n n n avy n n n n adj v punc 
+ n n n v punc 
+ n n v n n adj v punc 
+ punc pn n v n n v punc 
+ n v avy n n v n v punc 
+ n n n n n v n n v punc 
+ nst n avy n n n n v punc 
+ n n n n n v n v punc 
+ n v avy n n v n n n v avy pn n n v n v punc 
+ n n n v n v punc 
+ punc n n avy v n v punc 
+ n avy n n avy n n n n avy n n avy v avy n n n n v punc 
+ n n adj v unk avy n v n n n v punc 
+ n v avy n n n v n n n avy n n v punc 
+ adv n n avy n n v n adv n avy n v n v punc 
+ n v avy n n n n n v punc 
+ punc n n avy n n n adj v punc 
+ n avy n n n n n v punc 
+ n n n n v avy pn n n v punc 
+ n n adv n v punc 
+ n n n v punc 
+ n n n n v punc 
+ n n n n v punc 
+ n n v avy n adj n n n n v n v punc 
+ n n n n n adj v punc 
+ n n n n v avy n n n n n v punc 
+ pn n n num n v punc 
+ n n n v punc 
+ n n n n n v pn n v punc 
+ n n n v avy n n n n v avy pn adj v n adj v n v punc 
+ n n n v avy n num n n adj v punc 
+ pn v avy pn n n n v punc 
+ n v avy num avy num n n adv n avy n n v n v punc 
+ n n v n v avy n n n adj v punc 
+ pn n n n n adj v punc 
+ pn pn v avy pn n adj v n n v punc 
+ pn v avy n n pn n v punc 
+ n v n n n n v punc 
+ avy n pn n n v n v punc 
+ avy avy unk unk pn avy pn v pn n v avy n v pn n pn v punc 
+ n pn n v n n v punc 
+ pn n adv n n n n v n v punc 
+ n avy n n n n n adj n n adj v punc 
+ n pn n n v avy n n adj v n n adj v pn n adj n avy n v punc 
+ n n n v avy pn n n n avy v avy n n v punc 
+ pn pn n v punc 
+ n n n n v avy n n v n n v avy v n pn n v punc 
+ n pn n adj v v punc 
+ n n n n v avy pn n n n n v pn n n avy n n v punc 
+ pn n n n v pn n v punc 
+ n n v avy pn n punc n n n n n n v avy v avy n n n n n v punc 
+ n pn adj n v avy n n n n v punc 
+ pn n n pn v avy pn n n adj v punc 
+ n n n n n v n v punc 
+ n n n v pn n n n n n n n n unk n adj v punc 
+ n n n n n n v punc 
+ n n n n n adj v n n n n v punc 
+ n n n v n v punc 
+ n n n n avy n n n n avy n adj v punc 
+ n n n n n avy n v n n n adv n v adv n n v punc 
+ n n avy pn n n n adj v n v punc 
+ avy n n avy pn n n n n n adj v punc 
+ avy n n n v adj v punc 
+ v avy n n v n n n v n pn n n avy pn n n n v punc 
+ n n n v avy n avy pn n n n n v v punc 
+ pn n n n n v punc 
+ n num n n n n v pn n v punc 
+ pn n adj n n n v punc 
+ n v n v n v punc 
+ n v avy num n avy n v punc 
+ n v n n v pn n n v n v punc 
+ n v n n v n v punc 
+ n num v pn adv adj v punc 
+ pn n n v punc 
+ n v avy n n v n avy n n v punc 
+ n v v avy pn n n v n pn n v v punc 
+ n v avy n n n n v punc 
+ n n n n v punc 
+ n n n n n n v pn n n n v punc 
+ n v v avy n pn adj v pn n v punc 
+ n n n v avy n n n n n v punc 
+ n n n v n n avy n adj n n n v punc 
+ n n n n n n n n n n n n avy n n n v punc 
+ n v avy n n n n n adj v n n v punc 
+ pn v avy n avy n n n n adj v punc 
+ n avy n n n n n n v punc 
+ n n pn n n n v n v punc 
+ n v avy n n n avy v punc 
+ pn n v n n n adj v n adj v punc 
+ n n n n v punc 
+ n n n n n v n n n v adj v n v punc 
+ n n n n n v n n avy n n n v n v punc 
+ punc n n psp n n n n v n adj v v avy n n adj avy adj n v pn n adv v punc 
+ n v avy n n n v n n v pn adv n adj v punc 
+ n n v n pn adj v punc 
+ n n v n pn n n v punc 
+ pn v avy n n n v n v punc 
+ n n n v n v punc 
+ n n avy n n n v n v punc 
+ punc n n v n adj v pn n n v punc 
+ n v avy n n n avy n n adj avy adj n adj v punc 
+ n v avy pn n n n v punc 
+ n n v avy pn n v avy pn n adj v punc 
+ n n avy n n v v n n n n n v n v punc 
+ n n n n unk punc 
+ adv n n adj v pn n v n n nst v punc 
+ n n n n avy n n n v pn n n n n v punc 
+ n v n n n n n v punc 
+ n n num v n v n n n n n n v n v avy adv n n v unk n n n v punc 
+ n n n n n avy v avy pn n adv n n v punc 
+ pn n adj n n v v punc 
+ avy pn n n nst n v v avy n n nst n v punc 
+ pn n n v n n n avy v punc 
+ n n n n pn n adj v punc 
+ pn n n v punc 
+ avy n n v avy n n n v avy pn n n adj v punc 
+ adv n pn n n n v avy n pn pn n n v punc 
+ punc n n n n avy n v avy n n n pn n n adj v punc 
+ n adj v avy pn n avy n n n v avy n v n pn adj v avy n n n n v punc 
+ n n n n avy n v n n n v punc 
+ n n n v punc 
+ n n n n adj v punc 
+ punc n n n v pn n n n v n n v punc 
+ n n n v avy n n n n n v punc 
+ n v n n v avy n n n n n v n n n n v punc 
+ n n n n v n v n v punc 
+ n n v n n v n v punc 
+ n n n v punc 
+ n n n n adj v punc 
+ n n n n n n n n avy n adj v punc 
+ punc n n n adj v n n v avy n n n n n n adj v punc 
+ pn n n n adj v n adj v n v punc 
+ adv n n n n n n v punc 
+ n v v avy pn n n n n n v punc 
+ pn n n v n n adj v n v punc 
+ pn n n v num v avy pn n n adj v punc 
+ n adj avy adj v n n n n v punc 
+ n v v avy n pn n n v avy pn n n n v punc 
+ avy pn n n n v punc 
+ n v v avy pn n adv n n v avy pn n n v punc 
+ n n n v v avy n pn adj v avy n n n adj v n v punc 
+ n n adj v avy pn n n adj v punc 
+ pn n pn n n v punc 
+ pn v v n n n n n adj v n n v punc 
+ avy n n n n v punc 
+ avy n n n n adj v punc 
+ avy n n n n v punc 
+ n pn n v avy n n n n adj v punc 
+ avy pn n n n adj v punc 
+ pn v v avy n v pn n n v avy pn n n v punc 
+ n v v avy n n n v n v punc 
+ avy n n v n n avy v avy n n n v n adj v n v punc 
+ pn v v avy n pn n v avy n n n adj v punc 
+ n n n v n adj v n v punc 
+ pn n n psp n n n v punc 
+ n n n adj n n v punc 
+ n v avy pn n n n v punc 
+ pn n v n adj v n v n v punc 
+ n v n n n v punc 
+ n v avy pn n n adv n n n n n n n avy n n n v pn n v punc 
+ n pn n n v punc 
+ pn adj v avy n n n n v punc 
+ n v avy n n pn n n n v punc 
+ n v avy n v avy n n avy n n v punc 
+ pn v avy n n adj v n v punc 
+ n pn n v avy n n n v pn n n v punc 
+ pn n n n n v punc 
+ n n n n n n n v n v punc 
+ pn n n n adj v n v punc 
+ n n n n n n avy n v punc 
+ n n n v punc 
+ n n n adv n v n n n n avy n v punc 
+ n n n n n n avy n n v punc 
+ avy n n n v n n n n avy n n v punc 
+ pn n n adj v punc 
+ n n n n v nst n n v punc 
+ pn n n n n n n v v punc 
+ pn n n avy n n n avy n n n n n v punc 
+ n n adj v n n v avy n v n n v punc 
+ n v avy n n v avy pn n n adj v n n v pn n v punc 
+ n n adj v n n n n avy n n n n n n n adj n n v v avy n n n adj v punc 
+ avy n pn adj v avy n avy n adj v pn n v avy pn pn n n v avy n n n n v punc 
+ n n adj v n n adj n n n n v n v punc 
+ n n n n n n v punc 
+ n n n n v avy avy n n n v avy n pn v unk pn n v avy n n adj v n n v avy pn n n n v punc 
+ avy n adj v n n n avy n n v punc 
+ n n v avy n n v n n adj v punc 
+ n n v n n v n n n n v n adj v punc 
+ avy n n v punc 
+ adv n n n n v avy n avy n n n n v punc 
+ n v avy n n n v punc 
+ n n n n adj v n v punc 
+ n n n v n v avy n n pn adj v avy n n avy v punc 
+ n adj v n v avy n n n n n n avy n n n v n n nst v n v punc 
+ n n n n n n v pn n n avy n n avy v punc 
+ n n n n avy v punc 
+ avy n n v avy n n n v avy n avy n n n v punc 
+ n n n n v avy n n n n v punc 
+ avy n n n num v pn n v n v punc 
+ adv n n v n v punc 
+ n avy n n n v n v avy n avy n n n n v punc 
+ n n n adj v avy n n n n v punc 
+ v n n v pn v adj v punc 
+ n n n n n n n v n n n avy n n n n n v punc 
+ pn unk unk n n n n n v punc 
+ n adj pn n n pn v n n v punc 
+ pn n n v punc 
+ n n n n avy n n v n n n v punc 
+ n n psp n adj avy adj n n n n n n n v punc 
+ pn n n v n n n v punc 
+ unk adj v avy n n n n n v punc 
+ n n n n n n v punc 
+ pn n pn n n v punc 
+ pn n n n v n v punc 
+ avy n n n v n v punc 
+ n n n v avy n n n avy n n n n n v punc 
+ avy n n n n v punc 
+ n n n n n n v punc 
+ avy n pn n pn v punc 
+ n n pn adj v avy n n n n n nst v punc 
+ pn pn n n v punc 
+ pn n n n adj pn pn n n v n v punc 
+ n n n n pn v avy n pn pn n v punc 
+ pn n n n pn n adj v punc 
+ n n n pn n n pn n v pn pn n n pn n adj v punc 
+ pn v avy n n v punc 
+ n n n n v avy n v pn n pn n n v n v punc 
+ avy n n nst pn n v punc 
+ n n pn n pn n n v n v punc 
+ n v avy pn n n v pn pn n n n pn n v punc 
+ pn v avy n n v n pn n adj v punc 
+ n pn adj v n n v punc 
+ pn n n adj n n pn n n v n pn n v n v punc 
+ n n n v punc 
+ n n n n n v v avy n n v n v pn n v punc 
+ n n n n n n n v punc 
+ n adj n adj v n v avy n avy n n n v v avy pn v n n v punc 
+ pn v avy n adj v avy pn n v punc 
+ unk adj v avy n n n v punc 
+ nst num n pn n v avy avy adj v punc 
+ n n v n v avy n n n n v punc 
+ n n n v n v avy n n n n v punc 
+ pn n avy n n v avy pn pn n adv v punc 
+ punc n n n n n n n v punc 
+ n n n n v punc 
+ n n n n n n n adj v punc 
+ n n v n n n n pn n n pn n adj v punc 
+ pn v avy pn n n n n v punc 
+ punc n n n n n v n n n n v n v punc 
+ n n n n n v avy n pn n n v punc 
+ pn n v pn pn pn n n v punc 
+ pn pn n n n n psp v v punc 
+ n nst v avy n n n pn n n n v punc 
+ punc n v v avy n n v punc 
+ avy n n n n v n v avy n n n v punc 
+ n v avy n n v n n n v avy pn n n v punc 
+ pn nst v avy n n n n v n v punc 
+ unk adj v avy n pn n v pn pn n n v punc 
+ v avy nst pn n n adv n v pn v n n adj v pn n v punc 
+ n n v avy n n n v punc 
+ n pn n n avy unk avy n adj v punc 
+ pn n pn n n v punc 
+ n n n v n n v avy n n n v punc 
+ avy pn pn n v avy n n n avy unk avy n avy n n n avy n v punc 
+ n n n adj v punc 
+ pn v avy avy n n avy n v avy pn n v avy pn n n n v punc 
+ n v avy n n n adj v avy n n n n v pn adj v pn n adj v punc 
+ pn v avy pn n n avy n n n adj v punc 
+ pn v avy n n n v avy n n v pn n pn adj v avy pn n avy n n v punc 
+ pn n n n adj v v avy n n n avy n n v n v punc 
+ adv n n n n v v punc 
+ pn n n v v avy n n n v punc 
+ n pn pn n n v v punc 
+ n n n n v n n adv n n avy n n nst n n n n v punc 
+ avy pn v avy pn n n n n avy n n n n v punc 
+ n n n v n n n v avy n avy n v pn pn nst n adj v punc 
+ n n n n n adj v n v avy n n adj v punc 
+ pn v avy pn n v pn n n n v n n n n v punc 
+ n v avy pn n n avy n n v punc 
+ avy n n v n v punc 
+ n v avy pn pn n n n n v adj v v punc 
+ avy pn n n n v punc 
+ n n avy n n n n n n n v punc 
+ n v avy n n v pn pn adj v avy n n n n v punc 
+ n n pn n n adj v punc 
+ n n pn n n v avy n n n adj v avy pn n adj v n v punc 
+ n pn n v avy pn n n pn v avy n n v punc 
+ pn pn pn v pn pn n adj v avy n pn pn v punc 
+ pn n adj v avy n pn n v adj v punc 
+ avy n n n adj v avy n n n v n n n v punc 
+ avy n n v avy n pn v adj v avy pn pn pn avy pn v punc 
+ avy n n v n v pn n v punc 
+ n n n adj n pn n v n v punc 
+ avy n n n v punc 
+ n n v avy n n pn n adj v pn n n v punc 
+ pn nst pn n n n v avy n n v n v punc 
+ n n n n v punc 
+ n n psp n n n n n n n adj v punc 
+ n n n v v avy n n n v punc 
+ n pn n n n n v pn n n n unk v punc 
+ pn n n adj n v punc 
+ unk adj v avy n n n n n num n n v avy pn n adj v punc 
+ pn n n avy n adj n v n n n v punc 
+ n n v n n n n v n adj pn n adj v punc 
+ n n n n n n n v punc 
+ n n n v avy n n n v punc 
+ n punc pn pn n n v punc 
+ n n nst v punc 
+ n n n n n avy n n v punc 
+ n n n n n v punc 
+ n n n v n n n n n adj n n n v pn n v avy n n n v punc 
+ n n v avy pn n n n num unk v punc 
+ nst pn n n n v n n v punc 
+ n pn n n n psp n v v punc 
+ n n n n v punc 
+ n n n v avy pn n n n n v punc 
+ nst pn n n adj v punc 
+ n n n n v avy pn n n n v v punc 
+ n pn n n v avy n n v punc 
+ n n n avy n adj v pn n n n n n avy n v n v punc 
+ n adj n n v n pn n v punc 
+ n n n adj v n n pn v avy n n n n adj v punc 
+ n n n n n n avy n n n n n v punc 
+ avy pn n n n v v avy n n n n adj v punc 
+ n adj n n n adj n n avy n n v punc 
+ pn v avy n n n n v punc 
+ avy n n adj v punc 
+ n v avy n n adj v adv adj v unk pn pn n v punc 
+ unk adj v avy n n n n v n n n avy pn n n n n n n v n v punc 
+ pn n n v punc 
+ n n n n n adv v n avy n v punc 
+ pn n n n avy n adj v punc 
+ n adj n n n avy n v n v punc 
+ pn n adj v punc 
+ pn n n n n v n v punc 
+ n n n v punc 
+ n n v avy n n n n n v punc 
+ punc n n n n v avy v n avy n adj v n avy v punc 
+ n v v v n n avy n adj v punc 
+ n n v punc 
+ n n n v v avy n n n v n v pn pn n v pn v n v punc 
+ n v avy n n n avy v avy pn n v pn v n v n n v punc 
+ n n n v n n n n n v n v punc 
+ n v n v punc 
+ n n adj v n n n v pn n v punc 
+ unk adj v avy n n v n n avy n v n v punc 
+ n n n v avy n avy n n n v n n n n n adj v punc 
+ n n n n n n v punc 
+ n n adj v avy pn n n n n adj v n n pn n v punc 
+ n n n v n n n n v punc 
+ n pn adj v avy n n adv n v punc 
+ n n n v avy v pn n n v punc 
+ n n n v n v v punc 
+ n n n n avy n v punc 
+ punc n n n adj v n adj v punc 
+ n n n v punc 
+ n v n pn n v punc 
+ n n n v avy n v n v punc 
+ n n n v n n n v avy n n num n n v punc 
+ n v n n v punc 
+ n n n pn v v avy n pn adj v punc 
+ n v n n v n v n adj n n v punc 
+ n adj n n n n v n v n n v avy n n n adj v n v punc 
+ n n n adj v punc 
+ pn n adj n n n n adj v avy n n v n adj avy adj n adj adj avy adj n n n v punc 
+ n n pn n v avy pn n n v n v avy n v avy n adj v pn n adj v punc 
+ n n avy v avy n v punc 
+ n pn n n v avy pn n n n n v n n v punc 
+ n pn nst n adj v n n v pn pn n nst v n v n v punc 
+ adv pn n n n v punc 
+ n avy n n v n n v avy nst n n v avy v n v punc 
+ n n n v n n n v punc 
+ n n n n v avy pn n v avy pn v n v avy pn n adj v punc 
+ v n n v n v avy n pn pn n n adj v n v punc 
+ pn n v pn n adj v punc 
+ n v avy n n n n n v punc 
+ pn v avy pn n n pn v pn n n n v punc 
+ pn v avy n n n pn n avy unk avy n n v v punc 
+ n v avy n n n v punc 
+ n v avy pn n n v avy n v n v punc 
+ avy n n n n v n v punc 
+ unk adj v avy n n n v punc 
+ n pn n unk v punc 
+ n n pn n n v pn pn n adj v avy n n n v punc 
+ n avy n n pn n v n v pn pn n n psp n v n n v avy n n n n n adj v punc 
+ n n n n v adj v avy n pn n n n v punc 
+ pn v avy n pn n adj avy v adj v punc 
+ n n n pn n n unk avy n n n n v punc 
+ n n n n v avy n avy n n n n n n n avy n n v punc 
+ pn n n n v punc 
+ n v avy n v n n pn n v n n v punc 
+ pn v avy n n n avy n n n v n v avy n n adj v punc 
+ pn v avy n n n n n v punc 
+ n v avy n n n v n n adj pn v punc 
+ pn pn v avy n n n n v adj v avy pn n n n v n n v punc 
+ n v n pn n n v n n v n v n v adj v punc 
+ pn v avy n n n adj v punc 
+ pn v avy pn pn pn n n v punc 
+ pn n n v n v punc 
+ pn adv nst v avy n n v punc 
+ pn n v avy n n n v pn pn n pn n adj v punc 
+ n n n n v punc 
+ n adj pn v punc 
+ pn pn v n n v avy pn n v avy pn n v punc 
+ n v n v avy n n pn n n n v punc 
+ n n v avy n n n n adj v n v v punc 
+ n pn n v n v avy n n v n adj v punc 
+ n n n v pn v avy n adj v punc 
+ pn n v punc 
+ n n n adj n n n adj v punc 
+ n n avy n v avy n avy n n n v punc 
+ n avy n n n avy adj adj v punc 
+ n n adj n avy n n n n v punc 
+ n adj n n n adj v punc 
+ n v n n punc 
+ n pn n n v punc 
+ n n n v avy n n n n n v punc 
+ pn n n n v avy n v n v punc 
+ n adj n n n n v punc 
+ n n v n n v punc 
+ avy n pn n adj v punc 
+ n pn avy n v avy avy n n v avy pn v v punc 
+ n n adj v punc 
+ n v n n v v n avy unk avy n unk punc 
+ n n n v n n adj v punc 
+ avy pn n n adj avy n adj v v unk pn n n v v avy n n v punc 
+ n n v avy n n pn v punc 
+ n n v n avy n n n n adj v punc 
+ n n n v n avy n v n nst v punc 
+ n n avy n adj n n n n pn n v punc 
+ n n v pn pn v pn pn v punc 
+ punc pn avy adv n v avy n n pn v v v punc 
+ pn n adj v avy n n v unk pn pn n n v punc 
+ n pn n n n n v avy adj n v punc 
+ pn n n avy n n n v n n v n n v punc 
+ n n n adj v n v avy pn pn v avy pn n n n n v avy pn n v nst v punc 
+ pn v avy pn n n avy n n adj v n nst v n v punc 
+ pn pn n n n v punc 
+ n n nst n v pn n v punc 
+ n v avy n avy n pn n v punc 
+ pn v avy n avy n n n avy v n pn n n adj v n v punc 
+ n n n avy v avy adj v punc 
+ pn n adj v punc 
+ pn v avy n avy n n n v pn n adj unk avy n adj v punc 
+ pn n n adj avy adj n v punc 
+ pn v avy pn pn n v avy n n v n pn n v n v avy pn n n v punc 
+ pn pn n n v punc 
+ adv pn v n n n v punc 
+ n avy pn n v n n v n v pn v avy n n v punc 
+ pn n adj v punc 
+ pn n n n v avy pn n v avy n pn adj v punc 
+ pn v avy n n avy n v punc 
+ pn v v avy num avy num n n v punc 
+ avy pn punc n adj v avy pn pn v punc 
+ n n n v punc 
+ pn n n v pn n v punc 
+ avy n v n pn n n avy unk avy pn v n v punc 
+ num v n pn n pn n v punc 
+ pn n n v punc 
+ n pn nst n adj n v punc 
+ pn nst n pn n v punc 
+ n pn n n n n v punc 
+ n n adj n n n v avy n pn n pn adj v punc 
+ n n n n n v v n n v unk pn v pn pn pn n v punc 
+ pn n n n v punc 
+ pn n v unk pn adv adj v punc 
+ pn pn adj v punc 
+ n n n n v punc 
+ n pn n num v punc 
+ n v v avy pn n v avy n n n v avy n num v pn avy pn n v punc 
+ n avy n n n n v n n n v punc 
+ n n v pn n n pn n n v punc 
+ n avy n v n n v avy n pn n v punc 
+ pn pn pn v n v punc 
+ pn n v punc 
+ pn adv v pn adv v punc 
+ n n n v pn n n n v punc 
+ n n v n v punc 
+ n v v avy n n n v pn n n v pn n avy n v punc 
+ n n n v avy pn n n n v punc 
+ pn pn n n n v punc 
+ pn pn n v punc 
+ pn n n avy n v punc 
+ n v avy pn n pn n n adv v punc 
+ pn pn n n v avy n n avy n n v punc 
+ n n n n n avy pn n v punc 
+ avy n pn n n n avy n v n v punc 
+ n v pn n n n v punc 
+ n n n v n pn n n v punc 
+ n v n n n n avy pn n n v punc 
+ n n n v punc 
+ pn v pn adj v v punc 
+ pn pn adj v punc 
+ pn n v adj v punc 
+ avy pn n n pn adj v punc 
+ pn v n n v adj v punc 
+ pn pn n n v punc 
+ pn avy unk unk n v avy n n v pn n n v punc 
+ n n n v n n n n n pn n n v n v punc 
+ n n adj unk n n n n v adj v punc 
+ n n n adj v punc 
+ pn n n n v punc 
+ punc n n n n n adj v punc 
+ n pn n num n v punc 
+ pn n n n adj v punc 
+ pn n n n adj v punc 
+ n n n n n num n n n adj v punc 
+ pn n n n v punc 
+ pn n n n num n n v pn n n v punc 
+ n n num n n adj v pn n n n v punc 
+ pn n n n num n n n v punc 
+ n n n n n num n n adj v punc 
+ n n adj n n v n n n n n n adj v pn n n n n v punc 
+ pn n n n n n n n v punc 
+ pn n n v n v punc 
+ n n n n v n adj v n n v punc 
+ n n n n v v avy n n n v punc 
+ n n n n adj v pn n n n v punc 
+ n n n v pn v avy nst n n v punc 
+ pn n n v punc 
+ n n adj v n n v avy n n n n n v punc 
+ n n num n v unk n n v punc 
+ pn n pn n v punc 
+ n n n v punc 
+ pn pn adj v avy n n n adj v n n adj v punc 
+ pn v avy n n n n v avy pn n v n n n v punc 
+ n n n v n v punc 
+ avy n n n unk n n nst n n n n v punc 
+ pn v avy n n n n v punc 
+ n adj v n v punc 
+ n adj n n n unk v punc 
+ pn num n n v punc 
+ n n n n n v punc 
+ n n n unk unk avy n n n n n n v punc 
+ n n n avy n n n n n n v punc 
+ n n n n v avy n adj v n n n v punc 
+ avy n n pn adj v pn n n avy pn v num n n n adj v punc 
+ n n n n n psp n n n v punc 
+ n n num n num n v punc 
+ n n pn n v avy n avy n n v punc 
+ pn v avy pn n pn n n n v punc 
+ n n n n n n psp n n v punc 
+ n n n n avy n n n v punc 
+ n n n n n avy n n v punc 
+ n n n v avy avy n n n n adv n n n n v punc 
+ n n n n v avy n n avy v n n n pn n v pn n n n v punc 
+ n v avy n pn avy n adj v pn n n n v punc 
+ n v avy n n n n pn n v adj v punc 
+ pn v avy pn n n adj v avy n n n v punc 
+ n pn n n n n n v punc 
+ pn n n n n psp v avy n n v avy pn n n psp n n v punc 
+ n n n n v n avy n n psp n v n v punc 
+ n n n v avy n v n n v punc 
+ n n n n n n n avy num n v n v punc 
+ pn v avy n n n n n n avy n v n n n v punc 
+ n v n n n v avy n v n n n n v punc 
+ pn v avy n n n n n unk unk n n n v punc 
+ n n v n n v punc 
+ pn v avy n avy n n v n n v n v punc 
+ avy n n v punc 
+ pn adj v avy n v n v unk n n avy pn adj v n v punc 
+ n n n n v avy n v n n n avy n n n v punc 
+ pn v avy n n v num avy n n v punc 
+ pn v avy n n n adj v punc 
+ pn v avy n n n v pn n n adj v n v punc 
+ n n n adj v n adj n v v avy n n n adj v adj v punc 
+ pn v pn adv v v avy n avy n n n adj v punc 
+ pn v avy n n adj v punc 
+ n n n v avy n pn n v punc 
+ pn v avy n n n n psp n n v punc 
+ n avy n n n v punc 
+ n n pn v avy n n v avy n n n v punc 
+ n avy n n n v punc 
+ pn v avy n n v avy n adj v avy n n v punc 
+ n v avy n n v punc 
+ n n adj v pn n n pn n v punc 
+ n v avy n n n n n v punc 
+ n n n n adv v avy n n n v punc 
+ n n n adj v adv n n v punc 
+ n n n n v n v punc 
+ n n avy n v n adv v n v avy avy n v avy n v n n adj v punc 
+ n n n n v v n n n n v avy num n pn n n adv v pn n n n n v punc 
+ n n avy n n v avy n n adj v avy n n adj v punc 
+ n n avy n n v n v punc 
+ n adj v n n n v punc 
+ n n pn pn adj v pn n n v punc 
+ pn n num n v punc 
+ n n v n n v punc 
+ avy pn v avy n adj v avy n n v punc 
+ pn n n psp n n n v avy n v punc 
+ n v v avy n n n v punc 
+ pn avy n unk avy n n v punc 
+ n n avy n n v pn adj v punc 
+ pn v avy n n adj v avy n pn v n v punc 
+ pn n n n v avy pn n v punc 
+ n n n n v n v v avy n n n n n avy n v punc 
+ n v avy pn n v pn n n n n avy n v n v n v punc 
+ n v avy pn pn n n n n n v pn n avy v punc 
+ pn v avy n n v avy n n n n n v punc 
+ n adj v n pn n v pn n n avy avy n v pn n n v punc 
+ pn v n n n n v n n adj v n v punc 
+ n n pn v avy n n v punc 
+ n n n n adj v n v n n v n n n n adj v punc 
+ avy nst v avy n v avy n pn n n adj v pn pn n n v punc 
+ n n n n n adj v avy n adj v punc 
+ n n adj v avy num adj v punc 
+ pn n n n adj v punc 
+ punc n n avy n v n n n n v avy n n adj v punc 
+ n n n n v punc 
+ n n n avy n v punc 
+ n n pn n v n n n v n n v v pn n avy n v avy pn v punc 
+ n n n n n n n v punc 
+ n n n adv n adj v n n n v punc 
+ n n nst n v punc 
+ n n n n n adj v punc 
+ pn n n adv nst n v punc 
+ pn n pn n v pn n n n adj v n v pn pn n v punc 
+ n n n n n n v pn nst n v avy nst n v punc 
+ n n v n n v nst v punc 
+ nst n n v adj v punc 
+ pn n adj v punc 
+ punc n n n n n n n n v punc 
+ punc n n n n n adj v punc 
+ n v n n n adj v punc 
+ punc n n n n n v n v punc 
+ punc n n n n v avy n n n v n v pn n v punc 
+ n n n n v avy n v n n n n n pn v punc 
+ n n n adj n n avy n n adj v punc 
+ n n n adj v n adj v punc 
+ avy n n v n adj v punc 
+ n n avy n v avy avy n n pn n v punc 
+ adv n v n n v punc 
+ n adj n n n n n adj v n v punc 
+ n n n n v avy n n n n avy pn n n v avy adj v punc 
+ avy n adv n adj v punc 
+ n n n n n n n n n v punc 
+ avy n n n pn n adj v n n n n pn v punc 
+ n pn n n n v n n adj v punc 
+ unk adj v avy n n n n adj v punc 
+ pn n n v pn n n v punc 
+ n n n n v punc 
+ punc n n n adj n v avy n adj n n v n n v pn n n adj v punc 
+ punc n pn n adj n n adj v n adv n v punc 
+ n v avy n n v avy n n v v punc 
+ n v avy n avy n n pn n v n n v punc 
+ n n n v avy n n v avy n n n v n adj v v punc 
+ n n v avy n v n n avy n avy v avy pn adj v punc 
+ n n n adj v punc 
+ avy n n n psp n n v punc 
+ n n n n n v pn n n v n v punc 
+ n n n avy n nst v n avy pn n n v punc 
+ n n adv v punc 
+ pn n n n v n pn n v adj v punc 
+ n n n pn n v avy pn n n adj v punc 
+ n n adv n v n n n v n n v n v punc 
+ n n pn n adj v punc 
+ n n adj n v n n n v n v punc 
+ n nst v avy n n n v punc 
+ avy pn n avy n n n n v n v punc 
+ n n n v avy pn n n n adj v punc 
+ n v avy avy n n v avy pn n avy unk avy n n pn n v punc 
+ n v avy pn n v avy pn n n n n v punc 
+ pn n n n v avy n n v punc 
+ n n n n adj v punc 
+ n n n adj avy adj n n adj v punc 
+ unk adj v avy n n n n n n n v punc 
+ n n n n n n n v n v punc 
+ n adj n v avy n n n n avy n n n v punc 
+ unk adj v avy n n n n n n n v punc 
+ n n n avy n n v unk adv n n n v punc 
+ n n n v pn n n n n v punc 
+ n n avy n n v punc 
+ n pn v avy n n n n v avy n n n n n v punc 
+ n adj n n v avy avy n n adj v avy pn n adj v punc 
+ n n n n v n n n v n v punc 
+ n n n n n v punc 
+ n n n n n n v punc 
+ n n n v n n n v pn adj v punc 
+ n n adj v punc 
+ pn n num v punc 
+ n pn n n v punc 
+ n n v n n v punc 
+ n n n v punc 
+ n pn n v punc 
+ n pn n n v punc 
+ n pn n v punc 
+ n n n v avy n n n adj v adj v avy n pn n n v punc 
+ n n adj v n n n n v avy n adj n n pn adj v punc 
+ n n n n v pn n n n nst n adv v punc 
+ n n adj n n n v n n v punc 
+ n n adj v avy n n avy n n v n v n n n v punc 
+ n n n pn v avy n adj n adv n v punc 
+ nst pn n n n v punc 
+ n n v avy n n n n adj v n v punc 
+ avy n avy n v pn n n v punc 
+ n n n n n avy n adj v punc 
+ n v avy n n n n nst v punc 
+ n adj v n n v n n n n n adj v punc 
+ n n adj v avy n n pn n pn adj v punc 
+ avy n n n n adj v punc 
+ n avy n n v n n n n n n v v punc 
+ n n n n v punc 
+ n pn v v avy n avy n v avy pn n n psp n v n v punc 
+ n n n v n n v v avy n n n n n n v punc 
+ avy n n n n n n adj v n v punc 
+ n n n adj v avy pn n n n v punc 
+ nst n v v avy n n n n adj v n n n v punc 
+ pn n n n n n n n n v punc 
+ pn n avy n n adj v punc 
+ n v avy n n n n n n v punc 
+ unk adj v avy n n n n n v punc 
+ n n v n n n n v avy pn n n v pn n n adj v punc 
+ n n n n avy n n n v punc 
+ n n n n v punc 
+ n v v avy n avy pn n n v avy n pn v avy n pn n v n n adj v punc 
+ n n n n n n n n v n n n n v punc 
+ n n pn n v punc 
+ n n n n n v adj v punc 
+ n n adj v punc 
+ unk adj v avy n pn n pn v v n n v pn n pn n n v n v punc 
+ pn n n n n v n v punc 
+ n v avy pn n n n v n v n v punc 
+ pn v avy n v n v punc 
+ n n n avy n n n v n v avy n n n n n adj n n v n v pn n v n v punc 
+ pn n v n n n adj v n v punc 
+ n n v n n n n n v punc 
+ n v v n n n n v punc 
+ n n n n n v avy n n adj v n v punc 
+ v avy pn n n n n pn v n v n v n n n v punc 
+ n n n v pn n n n v punc 
+ n n n avy n n v avy avy unk n avy n pn n n v punc 
+ avy n n v n n v avy n n v punc 
+ n n n n avy v n v punc 
+ avy n v n n avy v avy n adj v punc 
+ n pn n v n n n pn n v punc 
+ avy avy unk unk n n n nst v punc 
+ avy n n n v n v pn n nst pn v punc 
+ n n n v avy n pn v avy n n n v punc 
+ pn v avy n n n n v punc 
+ n v avy n n v n v punc 
+ pn v avy n n avy n v n n avy v punc 
+ avy n pn n v punc 
+ pn n v pn n n n n v punc 
+ n n n v avy n avy n n n n adj punc n avy n n n n n v punc 
+ n n adj n v punc 
+ pn n adj avy adj n n v punc 
+ n n v pn n n n avy n n n n v punc 
+ n n adj n n n n v n v avy n n pn n n n adj v punc 
+ avy n v n n v punc 
+ n n n n v avy n n v punc 
+ pn n pn adj v avy n n avy pn n adj v punc 
+ n n v avy n n n v pn n pn n n v pn n n v avy n n n avy n v adj v punc 
+ pn v avy n n pn adj v avy n n pn n v punc 
+ pn n n adj v avy n v punc 
+ n v avy n n n v punc 
+ pn n v avy pn adv n avy n adj v avy pn n n nst v punc 
+ n n n n n v punc 
+ n n n n n v punc 
+ n n n n avy n v punc 
+ n n v n n n n v punc 
+ n n n n n v avy n adj v punc 
+ n n n v avy n n n n psp n v n v punc 
+ n n v avy n n adj n n n n v pn n n avy n n n v punc 
+ n n v avy n n n n adj v punc 
+ pn v avy n adv n adj v pn n v n adj v punc 
+ n v avy n n adj avy adj n n v punc 
+ n n pn v avy n n n avy n n n n n n avy n n psp n pn adj v n v punc 
+ n n n pn n n n v avy n n n v n pn n v punc 
+ pn v avy n n n n v punc 
+ punc n n n v avy n n n v n avy n n v pn n n n n v avy avy pn n v punc 
+ n n n n n n v n n v v avy pn n n n v punc 
+ pn v avy pn n n adj v punc 
+ n n n n n n v pn adj v punc 
+ n v avy pn n n n v pn pn n avy n n n v adj v punc 
+ n n n v avy n n pn n v n n avy n n n adj v avy n v n pn v punc 
+ n n n n n n adj adj avy adj n n n v punc 
+ pn n n v avy n n n v punc 
+ n unk n n n n n v punc 
+ avy n v avy n n v n n v avy pn n v v punc 
+ n n avy n n v avy n n n v pn n n n v avy pn n v v punc 
+ pn v v avy pn n n n v pn pn n v punc 
+ n v avy n n avy n n v pn n n v punc 
+ nst n n n avy n n n v avy n n pn v punc 
+ pn n v n n n n v punc 
+ n n n avy pn n n n n n v punc 
+ n n n n n n v n n adj v punc 
+ n n n avy n adj v punc 
+ n n n n n avy n adj n n n v adj v punc 
+ n n n n v n n v n v punc 
+ pn v avy n v adj v avy pn adj pn v v punc 
+ pn v avy n pn n n v n v punc 
+ n n n n v pn v avy n n adj v n n v punc 
+ pn n n n n n n n n v n v punc 
+ n n n n v punc 
+ n v avy n n v n n v punc 
+ pn v avy pn n n n v punc 
+ adv n n punc pn v avy n n n v punc 
+ n n n pn n adv n v punc 
+ pn n n pn n v avy n pn n v punc 
+ n avy n n pn n pn n n adj avy adj n n v punc 
+ pn pn adj v unk n pn n v punc 
+ n pn n n n adj v punc 
+ n n n pn n n adj v n n v punc 
+ n n n n n v n n v punc 
+ pn n n v n v punc 
+ n n n v punc 
+ n pn avy adj avy adj n n v punc 
+ n n n n v n n n v punc 
+ n n n pn n v punc 
+ n n n v n v punc 
+ nst pn n n n v punc 
+ n pn n v punc 
+ n n n n psp n v avy n n adj v punc 
+ pn n n n v n v punc 
+ n n n n v n v n n v n v punc 
+ n v n avy n v avy n n v n v punc 
+ n v avy n n n n v punc 
+ pn n pn n n v n v punc 
+ n n v avy n n n v punc 
+ adv n n v punc 
+ n pn n n v punc 
+ n n pn n n v avy n v pn n adj v punc 
+ nst n n n n v punc 
+ n n v pn n n n adj v punc 
+ n pn n v punc 
+ nst n v punc 
+ n n n n n n v punc 
+ pn n v avy n pn n n v n v punc 
+ n pn n n v punc 
+ n n n v punc 
+ n n n v punc 
+ n adj v avy n n v n n n v n v punc 
+ pn v avy n n v pn adj v pn n v punc 
+ n n n n avy n adj v punc 
+ n v v avy n n n n v punc 
+ pn pn n n v avy n n n v v punc 
+ n n n n n n v punc 
+ pn n n n n v punc 
+ n n n n v n v punc 
+ n n n n v punc 
+ n n n n v punc 
+ pn n n adj v punc 
+ n n adj n n n n n n n v punc 
+ n n n n v n adj v punc 
+ pn n n n n n n v n adj v punc 
+ pn n n n n v punc 
+ nst n n n adj v n adj v punc 
+ n n n n v n v punc 
+ n n avy n n adj v punc 
+ n n n n n v avy n n n adj v v punc 
+ n n n n n v punc 
+ pn n v pn n n n n v avy pn n n avy n n adv nst v punc 
+ n adj v n n v punc 
+ n v avy n n n n v n v punc 
+ n pn n v pn n n adj v punc 
+ n n n v punc 
+ pn n n adj v punc 
+ pn avy unk unk n n v n v punc 
+ pn n v avy n n n v punc 
+ n n n n n n n v punc 
+ pn n v avy n v pn v avy n n pn n n v avy pn n pn n v punc 
+ n n v avy adv pn n pn v punc 
+ n v avy n v avy pn n v punc 
+ n n adv v pn pn n n v avy n n avy n n v punc 
+ n n n v pn n n adj v punc 
+ n n pn n v v punc 
+ n n adv n v pn v n n n v v punc 
+ n n v punc 
+ pn n v avy avy n pn pn n v punc 
+ pn n n v avy n pn n v pn pn n v n v punc 
+ pn pn n v pn pn pn n v punc 
+ n adv n v avy pn pn n n n v adj v punc 
+ pn v avy n n n n n adj v pn n pn n n v adj v punc 
+ n n v avy pn n n n adj v punc 
+ n n v n n adj v n n pn n n v punc 
+ n n pn v avy n n n n n n v n n adv n v v punc 
+ n n avy n n v punc 
+ n n n v avy pn n v n n pn v pn n unk v punc 
+ n n v avy adv n n v punc 
+ n v n n n n v avy n adj v avy pn n v v avy avy unk punc 
+ n n n n n v n v punc 
+ n n n n n n adj v adj n adj v pn n n adj v punc 
+ n adj n n pn n adj v n adj v n n n v punc 
+ n pn n v avy n v n n v n v adj v punc 
+ avy n v v avy adv n adj v pn n v avy n adj v n adj v punc 
+ n n n n nst n v avy pn n n n adj v punc 
+ n n n n v punc 
+ n n n n n n n avy n n v n v punc 
+ pn n n n n n v punc 
+ n n avy n n v n v n n n n n v n v punc 
+ n n pn n v punc 
+ pn n n v punc 
+ n v n n n v avy n adj avy adj n v n n v punc 
+ avy n n n n avy n n v adv v punc 
+ pn n v v avy n n n v v pn n v avy n v punc 
+ n n n n n v pn v avy n avy n n v avy n v n n n n v punc 
+ n v avy avy n n adj avy adj n v avy n n n v punc 
+ n n avy n n avy n n n n n v punc 
+ n n n pn n n v pn n n avy n v punc 
+ n adv n n v n v punc n n v n v punc 
+ n n n v pn n n adj v punc 
+ pn n pn n v n v avy n n n n v punc 
+ pn v avy pn n pn v avy pn adv n n n v punc 
+ n n v v avy n avy n pn n v n v punc 
+ pn v v avy n v pn n v punc 
+ pn pn nst v v n v punc 
+ pn n n v avy n n v avy pn n avy n n n n v punc 
+ n n n n v avy pn pn n n v avy n n avy n n n v punc 
+ n n n n n adj v avy pn pn n v punc 
+ n v avy pn n n v avy pn n v avy pn pn n adv v punc 
+ n n v avy n n n n n v punc 
+ n n v avy n pn n avy n n v punc 
+ n n n n n v avy n n v avy n v n v n n v avy n pn n v punc 
+ n n n v avy nst n v avy nst n v punc 
+ n v avy n avy n n adj v punc 
+ pn v v avy n n n n n v punc 
+ n n v avy pn n v punc 
+ pn n n v n avy n n v punc 
+ n n n n n adj v avy v avy pn n n unk avy pn n n unk punc 
+ pn n v avy pn n v avy n adj v punc 
+ n n adj v n v n n v avy n n n n v n adj v punc 
+ n n n n n v n v avy avy n n adj v avy n n avy n n v avy n unk unk punc 
+ n n n v avy n n n n v n n v punc 
+ pn n v avy n n n n n v punc 
+ pn n n n v v punc 
+ n n v punc 
+ pn v avy n n v n n n adj v v punc 
+ n n adj v n adj n adj v n adj v punc 
+ n n v avy pn pn n v avy v n n adj v avy avy unk punc 
+ n v avy avy n adj v avy pn n pn v punc 
+ pn pn n v punc 
+ n n n n n n v punc 
+ pn v avy n n n n v pn pn v punc 
+ pn n v n n n v punc 
+ avy n avy n pn n v avy pn n n v punc 
+ pn v avy pn n n adv v punc 
+ n n v n pn n adj v punc 
+ n n n n n n pn n pn v n v avy pn adv v avy pn n pn v v pn pn n n v punc 
+ avy n pn v v avy pn n n v avy n pn n v punc 
+ n n n n n n pn v n pn n v avy pn n n n v pn pn pn n n v n v v avy v n n n pn pn v adj v punc 
+ n n n n n v n v n v avy n nst n n n v punc 
+ n adv v n n n n v avy v avy pn n n avy v punc 
+ pn v avy pn pn n n v pn n adj v n n v punc 
+ n n n v n n n adj v avy pn n adj v adv n adj v avy n v avy pn adj v punc 
+ n n n avy n n n pn v punc 
+ n pn n adj v v n n n n n n n n n n n n n n n punc n n adj v punc 
+ n n n n pn n v punc 
+ n n n adj v punc 
+ n n n n pn n v v avy n n n n v avy pn n v n n adj v punc 
+ nst n avy n n n n n avy n adj v punc 
+ n n v pn n n avy n n n n psp v punc 
+ avy n v avy n n n n v punc 
+ n n n n n v n v punc 
+ n n n adj v punc 
+ n v avy pn n n v punc 
+ n n n n v n n n avy pn n n v punc 
+ pn n v n n n avy n n avy v punc 
+ n v n n v punc 
+ n n n n v avy n n n pn n adj v punc 
+ n v avy n n v avy n v punc 
+ n v n avy n v punc 
+ n n v n n v punc 
+ n v avy n n adj v n n n v punc 
+ pn n n n v punc 
+ n v n n n avy n adj v punc 
+ n n n v avy n n n v punc 
+ n n v n n n adj v n n pn n n n v punc 
+ n n n v avy n n v avy pn pn adj avy adj n v v punc 
+ n v n n v avy pn n adj v punc 
+ pn pn adj avy adj n v v punc 
+ n n n n v n n v punc 
+ n v avy pn n n v avy n n n adv adj v punc 
+ pn n n n n v avy pn n n n v n v n v punc 
+ n n v avy pn n n v v avy n pn pn n unk avy adj v pn pn v v avy pn n v punc 
+ n v avy n pn adj v avy n unk punc 
+ pn v avy n n v punc 
+ n avy n v n n v n v avy n n v n n v avy n n n n v punc 
+ n n n n adj v n n adj v n n v avy n pn n n v avy pn n n adj v punc 
+ adv pn pn n n n v punc 
+ n n n n n n v punc 
+ avy n n n adj v punc 
+ pn n n n n v punc 
+ adv n n n n psp n n v punc 
+ n n n v avy n n n n pn v punc 
+ n n n adj v n v avy n avy n n n v punc 
+ n n adj v punc 
+ pn n n adj v n adj v v punc 
+ pn n n n n n v v avy n n adv n nst v unk pn n n n adj v avy n v n n n n v punc 
+ pn v avy n pn n v avy n pn nst n v punc 
+ n n n n n v unk pn n v n n v punc 
+ nst n v n n n n n v punc 
+ n n n n n v punc 
+ pn n avy n n v punc 
+ n n v avy pn avy n n n v pn n n v punc 
+ n n nst v punc 
+ n n n n n adj v v avy n pn n v avy n n n v punc 
+ pn n adj v avy n n avy pn n n n n v punc 
+ n n avy n n adj v pn n n nst v punc 
+ n n n n v avy pn n adj v punc 
+ n n n adj v avy pn n v n n v punc 
+ pn n n n avy n adj n v punc 
+ avy n n n v punc 
+ n v n n adj v n v n unk n n n n n n v punc 
+ n n v v avy n n adj v pn n n v punc 
+ adj avy adj n n adj v punc 
+ n n n n avy n adj n n v avy pn n n n v avy avy unk punc 
+ n n n adj v punc 
+ n n n n v punc 
+ pn n n v punc 
+ n adj avy adj n n adj v punc 
+ n n n n n n v avy pn n n adj v punc 
+ n v v avy n n n pn n n adj v punc 
+ pn n v n n n adj v punc 
+ n n n avy n v punc 
+ n n n avy n n n num avy n v punc 
+ n n adj v punc 
+ n n n v punc 
+ n n n n n n v punc 
+ n pn n v pn n avy n n n n v n n v n adj v unk n n v n v punc 
+ n n n v avy n n pn n n n v punc 
+ n v avy n n n n v avy n n pn n n v punc 
+ n n v n v avy n n n n adj v punc 
+ n n v v avy n n v avy pn n v n n adj v punc 
+ pn n n v v avy n pn n n v unk n pn v punc 
+ pn n v avy n pn n n v punc 
+ avy pn n n n n v n v punc 
+ pn v avy n n adj unk unk avy n n v punc 
+ pn pn adj v punc 
+ pn v avy n n adj n v avy adv pn n n v punc 
+ pn n adj v punc 
+ n v avy pn n n n n v punc 
+ pn n v avy n n v n v punc 
+ n pn v avy unk v avy n n pn n v avy pn n n v v n v punc 
+ n v avy n n n v avy n n n n v punc 
+ avy n n n n v avy n n v punc 
+ pn v avy n n n avy n n n n v punc 
+ pn pn n v n v punc 
+ n n n n n n n n v punc 
+ n n n n psp n adj v avy num adj v punc 
+ n n n v punc 
+ n avy n n n adj v punc 
+ n n n v avy n n n adj n n n avy n pn v punc 
+ n n n adj n n n n v adj v punc 
+ pn pn pn n n n n avy n v punc 
+ n v n n n adj n n n n v punc 
+ v avy n avy n v n n n n v punc 
+ n n n n v pn pn n adj v punc 
+ pn n n n v punc 
+ n n n n v punc 
+ n n v n n v punc 
+ n n n n n avy n v v punc 
+ punc n n n n n v n n n v n n v punc 
+ n n n n v punc 
+ n n n v adj v n n n n n v punc 
+ n n n n n v punc 
+ n n n n n adj v punc 
+ n n n n n v n n n v avy n adj v punc 
+ n n n n v n n v punc 
+ n n n n n n v n n v punc 
+ n n v n n n v n n n v v avy n avy n n adj v avy n v avy pn n v adj v punc 
+ n n n avy n v n n n v n v avy n n avy unk avy pn pn n v punc 
+ pn v avy n n n n n adj v punc 
+ n v avy n n v pn nst n avy n n v pn n n nst v punc 
+ pn v avy pn pn n v n v n v avy pn v n v punc 
+ pn v avy n v adj v punc 
+ n pn n n v avy n pn n n v punc 
+ n n n n pn v avy pn n v punc 
+ n n avy n n n n v n n v n v punc 
+ pn v avy n n adv n v punc 
+ n n n v n n n v avy pn n n n v punc 
+ n v avy pn n n avy n v unk pn n v avy n pn n n v n v unk n v punc 
+ n n n n n v n v punc 
+ n n v pn v avy avy pn n v avy pn pn n v punc 
+ n n n v pn v avy v n n n v punc 
+ n n n n n n pn n pn v n v punc 
+ n n n n adj v n v punc 
+ avy pn n n n v punc 
+ n n n pn n v punc 
+ n n n adv n v pn n n n n n n v punc 
+ n n n n n adj v punc 
+ n n n v n n n v v avy pn n n n n v punc 
+ n n n n adj v punc 
+ pn n v avy n pn pn n v avy n n n n v n n n n n v n v punc 
+ n n v n avy n adv n n v n v punc 
+ n n n n n v n n n v punc 
+ adv n avy n n n v punc 
+ avy n n n adj v pn n n n v punc 
+ avy n n v adv n n v n v n v punc 
+ avy pn n v n n n n v punc 
+ pn n n n v avy pn n adj v punc 
+ pn n n v n v n v punc 
+ pn n adv n n v punc 
+ n n n n n n n n unk n n n v n v punc 
+ n n n avy n n v n v n n n n adj v punc 
+ n n n adj v pn n n n v n n v n n v v punc 
+ v avy n n n n v n adj v pn n n n n v n v punc 
+ n n n adj n n psp n adj v v avy n n v n v punc 
+ n adj n n v punc 
+ avy n n v avy pn n n n v punc 
+ n avy n n n n v avy n v n n v punc 
+ n adj n n adj v punc 
+ n avy n n n n n v n n v punc 
+ n adj n n adj v punc 
+ n v avy n n n n n n v punc 
+ n n n n n v n v n n n v punc 
+ n n n v pn n n v n n n n n v punc 
+ pn v avy n v avy pn n n n n avy n v punc 
+ n v n n v n n n v punc 
+ pn n n pn v punc 
+ v avy n n n n n n n n n n v punc 
+ n v pn v avy n n v n n v punc 
+ n n v n adj n pn v avy n n n n n n v punc 
+ avy n n v n adj v punc 
+ adv n avy n v n n n nst v n n v punc 
+ n n n n n v punc 
+ punc n avy n n n v n n v punc 
+ n n n v n n n pn n n n n v pn n n n n v punc 
+ n n n n adj v n n adj v n v punc 
+ pn n n n v n v punc 
+ avy nst n n n n v n adj v n v avy pn n v punc 
+ avy pn n n v punc 
+ pn n n n n v punc 
+ n n avy n pn n v punc 
+ pn n n n avy n adj v punc 
+ adv n n adj v punc 
+ punc n n n n v avy n n n v punc 
+ unk adj v avy n n avy n v n num avy n v avy num avy n adj v punc 
+ n pn n v punc 
+ avy n n v avy n adj n n v punc 
+ pn n adj avy unk avy pn v punc 
+ punc n v n n v n n n n n v punc 
+ n n adj n n v punc 
+ pn n avy n n v punc 
+ n n n n n v punc 
+ punc n n avy n n n v n n v punc 
+ n n n v avy n n n n n v avy n n n n n v punc 
+ n n n n n pn v punc 
+ n adj v n n v n n n v punc 
+ n n avy n n n n n v v avy n n n v punc 
+ n n n n n n adj v avy n n n v n v punc 
+ avy n adj pn v pn n n n v punc 
+ pn n n n adj v punc 
+ pn n n n v punc 
+ n avy n pn n adj v adj v avy n adj v pn pn adj v punc 
+ n n pn n n v punc 
+ n n n adj n n n v punc 
+ n n n n n n n n v pn n n n v avy n n n v punc 
+ n adv n v avy n n adj v avy pn n pn n n n n v punc 
+ n n n n n n adv nst v n n v avy adv n n n n n v punc 
+ n n v avy n pn n v adj v punc 
+ pn v avy n n avy n n n adj v punc 
+ n pn v avy avy n n v avy pn n pn adj v punc 
+ n pn n n n v punc 
+ n n n n n n v punc 
+ n n n adj v punc 
+ n avy n n adj v punc 
+ n pn adj v avy n n v punc 
+ n pn adv adj v punc 
+ n v avy n n n avy n n v punc 
+ n v n n n avy n n n v pn n adj v punc 
+ n n n v punc 
+ nst pn n v punc 
+ n pn n n v punc 
+ n adj avy adj n adj v punc 
+ nst n n v punc 
+ pn n pn n v avy nst n n v punc 
+ pn n adj n n v punc 
+ n nst n n n v punc 
+ avy pn pn n v pn n n n adj v punc 
+ n n v n pn pn n n n v v punc 
+ avy n n n v avy pn num n n v v punc 
+ n nst avy v punc 
+ n n n v avy n n n v punc 
+ pn n n v punc 
+ n n unk n n n v punc 
+ pn adj v n n n v unk nst n num v punc 
+ n n n n n n n n v avy n v n n v n adj v punc 
+ n n adj v punc 
+ n v avy n n n n n v n v n v punc 
+ n n v num n n n v n adj v avy n n n unk n n n n v n v punc 
+ v n n adj v n n n v avy n n n v punc 
+ pn n adj v punc 
+ n n n n avy n n n adj v punc 
+ n n n n n v n n n v punc 
+ n n avy n n n n n n v n n v n v punc 
+ n n n n n n n v punc 
+ pn n v avy n n n v punc 
+ n v n n v avy n n n avy v punc 
+ pn n n psp n n v n v punc 
+ n n v n adj n pn n n n v punc 
+ pn v n n n n v avy n n n n num v punc 
+ pn v n n v pn n v pn pn n avy v punc 
+ nst pn n adj v avy n avy n n v n pn v n v punc 
+ n n n n n n n n adj v n avy n n n v n n v n v punc 
+ n v pn n pn v n n n n avy n n n n pn n n v punc 
+ n n n n n v punc 
+ pn n v n n n n v punc 
+ n n n v n n n n avy n n v n v n v n v punc 
+ pn v avy pn n n v pn n n n n v punc 
+ n v avy n n adv v adj v punc 
+ pn v avy pn pn n n v n v pn v avy pn pn v punc 
+ n pn n pn n v punc 
+ n n n n v punc 
+ n n pn v avy n n n n v punc 
+ pn v avy n n n n avy n n n n v punc 
+ pn n n n n n v n n n v n v punc 
+ n n n n n n v avy n n v n n v avy pn v v avy n n v punc 
+ n adj n n n v punc 
+ n n n n n n n avy n n adj v punc 
+ n n n n n n n n n n avy n n n adj v punc 
+ n n adj v n n adj v n v punc 
+ n n n n n n avy pn n adj v v n pn n adj v punc 
+ avy pn n avy pn n n n v pn n pn pn n n avy n n n adj v punc 
+ n pn v avy n n n n n n n n adj v n v punc 
+ n n n n n pn adj n n adj v n v punc 
+ n n n n adj v pn n n n pn n adj n n n avy n n n n n n n n v punc 
+ n pn n v punc 
+ n adv n n v n adj v n avy n n n n n n v punc 
+ pn n n n n v pn n n v punc 
+ n n n n v avy n n n avy n v n n v punc 
+ n n n n n psp n v punc 
+ n n unk n v avy pn adj avy adj n adj v punc 
+ pn v avy n n v punc 
+ pn n n v punc 
+ pn n n v avy n n n adj v n n v n v punc 
+ pn v avy pn n n n v punc 
+ n n n n n v punc 
+ n n n n n avy n v n n adj pn n n n pn n v avy n n n v punc 
+ n v avy n n n v punc 
+ n n n v n avy adj v n adj v punc 
+ pn adj avy adj n n adj v punc 
+ n pn n avy n n n avy n n n v punc 
+ n n n v punc 
+ n n n n unk unk avy n n unk unk avy n n n v punc 
+ n v n n n adj v punc 
+ pn n n v n v punc 
+ n n avy n n v punc 
+ pn n n n n v punc 
+ n n avy n n v punc 
+ n n n n n adj v punc 
+ n n n v pn n n avy n avy n unk unk n n n n n n n avy n v punc 
+ n n n n n v n pn n n n v punc 
+ n n n n nst n n n v n n n n n n n v n adj v n adj v avy n n v n n v punc 
+ n v avy pn n n v v punc 
+ avy n adv n v avy pn pn n v adj v punc 
+ n n n adj n n v avy adj avy adj n n adv v pn n adj avy adj n n v punc 
+ n v n v avy n n avy n n avy v n v punc 
+ pn v avy n n n unk n n n v n v punc 
+ n n n n n n n v n v avy n n n n adj v punc 
+ n v avy n n n adj v n n v adj v punc 
+ n n n n v n v punc 
+ n num avy n n n v punc 
+ pn adj avy adj n num avy n n n v punc 
+ n v avy n adv n n v punc 
+ n n v punc 
+ avy n n n n adj v punc 
+ pn v avy n n n v pn n pn v pn v n adj v punc 
+ n n nst v punc 
+ n v avy n n n n n v punc 
+ avy n n v n pn n v adj v punc 
+ pn v avy n n n v avy n n n v n v punc 
+ n n n n n pn n v punc 
+ n n n n n v punc 
+ pn n n n adj v punc 
+ n n n n n adj n n n n pn v punc 
+ n n n n n v punc 
+ pn pn n n avy n n n v punc 
+ n pn n n n v n n n v punc 
+ n adj n n n n v punc 
+ n n n n n n v punc 
+ n n n n n n n v punc 
+ n n n n pn adj v v n n v n v avy pn n n n v n v n v punc 
